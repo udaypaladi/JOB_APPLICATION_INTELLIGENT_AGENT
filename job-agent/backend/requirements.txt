@@ -1,0 +1,15 @@
+groq
+langchain
+langchain-groq
+langgraph
+langgraph-checkpoint-sqlite
+chromadb
+sentence-transformers
+tavily-python
+pdfplumber
+python-docx
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+sse-starlette
